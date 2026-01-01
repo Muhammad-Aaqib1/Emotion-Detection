@@ -26,7 +26,6 @@ emotion-detector/
 ### 🔧 Requirements
 
 Install dependencies using:
-
 ```bash
 pip install opencv-python
 ```
